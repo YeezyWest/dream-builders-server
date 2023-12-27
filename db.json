@@ -3,6 +3,16 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 12,
+      "title": "yoooo",
+      "description": "dfghjk",
+      "amount": 12345678,
+      "currency": "Naira",
+      "bankName": "zenith",
+      "accountNumber": "dnfj",
+      "userId": "dnfj"
     }
   ],
   "profile": {
